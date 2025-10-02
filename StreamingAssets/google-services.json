@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "310572183895",
+    "firebase_url": "https://udcgames-b5125-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "udcgames-b5125",
+    "storage_bucket": "udcgames-b5125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310572183895:android:a6a062da3862b6570c0e12",
+        "android_client_info": {
+          "package_name": "com.entourage.udc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSwbAfZpYErUklnK79PW8NX_lhpbwguI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
